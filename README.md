@@ -48,16 +48,17 @@ pip install mysql-connector-python
 ## Usage
 #### 1) Run the Program
 #### 2) Choose an Option:
-Log in with your account ID and password.
+●Log in with your account ID and password.
 
-Open a new account with a chosen initial deposit.
+●Open a new account with a chosen initial deposit.
 
-Perform banking transactions or check your balance.
+●Perform banking transactions or check your balance.
 
-View transaction history.
+●View transaction history.
 
 ## Dependencies
 Python 3.x
+
 MySQL Connector for Python
 
 ## Database Setup
