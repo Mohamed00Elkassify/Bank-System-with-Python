@@ -42,19 +42,19 @@ ARKHAM Bank is designed for personal use to manage basic banking transactions su
 ###### cd arkham-bank
 
 #### 2) Install Dependencies:
-        Make sure to install the required Python packages:
-        pip install mysql-connector-python
+Make sure to install the required Python packages:
+pip install mysql-connector-python
 
 ## Usage
 #### 1) Run the Program
 #### 2) Choose an Option:
-        Log in with your account ID and password.
+Log in with your account ID and password.
 
-        Open a new account with a chosen initial deposit.
+Open a new account with a chosen initial deposit.
 
-        Perform banking transactions or check your balance.
+Perform banking transactions or check your balance.
 
-        View transaction history.
+View transaction history.
 
 ## Dependencies
 Python 3.x
