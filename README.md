@@ -2,37 +2,37 @@
 Welcome to ARKHAM Bank! This project is a simple command-line banking application using Python and MySQL. With this application, users can create accounts, log in, manage transactions, and maintain a secure banking experience.
 
 ## Table of Contents
-●Introduction
+● Introduction
 
-●Features
+● Features
 
-●Installation
+● Installation
 
-●Usage
+● Usage
 
-●Dependencies
+● Dependencies
 
-●Database Setup
+● Database Setup
 
-●Contributing
+● Contributing
 
-●License
+● License
 
 ## Introduction
 ARKHAM Bank is designed for personal use to manage basic banking transactions such as deposits, withdrawals, and money transfers. The application uses a MySQL database to store account information and transaction history securely.
 
 ## Features
-●Account Management: Open new accounts with a unique ID.
+● Account Management: Open new accounts with a unique ID.
 
-●Secure Login: Password-protected accounts to ensure security.
+● Secure Login: Password-protected accounts to ensure security.
 
-●Transactions: Deposit and withdraw money from your account.
+● Transactions: Deposit and withdraw money from your account.
 
-●Balance Check: View current account balance.
+● Balance Check: View current account balance.
 
-●Money Transfer: Transfer money between accounts.
+● Money Transfer: Transfer money between accounts.
 
-●Transaction History: Display all transactions related to your account.
+● Transaction History: Display all transactions related to your account.
 
 ## Installation
 #### 1) Clone the Repository:
@@ -48,13 +48,13 @@ pip install mysql-connector-python
 ## Usage
 #### 1) Run the Program
 #### 2) Choose an Option:
-●Log in with your account ID and password.
+● Log in with your account ID and password.
 
-●Open a new account with a chosen initial deposit.
+● Open a new account with a chosen initial deposit.
 
-●Perform banking transactions or check your balance.
+● Perform banking transactions or check your balance.
 
-●View transaction history.
+● View transaction history.
 
 ## Dependencies
 Python 3.x
@@ -62,15 +62,15 @@ Python 3.x
 MySQL Connector for Python
 
 ## Database Setup
-#### ●Install MySQL:
+#### ● Install MySQL:
 
 Ensure you have MySQL installed and running on your machine.
 
-#### ●Create a Database:
+#### ● Create a Database:
 
 Create a database named mybank and modify the connection details in the script if necessary.
 
-#### ●Table Setup:
+#### ● Table Setup:
 
 The tables accounts and transactions will be created automatically if they do not exist.
 
