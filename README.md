@@ -37,7 +37,7 @@ ARKHAM Bank is designed for personal use to manage basic banking transactions su
 ## Installation
 #### 1) Clone the Repository:
 
-###### git clone https://github.com/yourusername/arkham-bank.git
+###### git clone https://github.com/Mohamed00Elkassify/arkham-bank.git
 
 ###### cd arkham-bank
 
